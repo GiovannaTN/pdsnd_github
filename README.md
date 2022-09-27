@@ -12,7 +12,7 @@ Describe what your project is about and what it does
 ### Files used - couse available -first additional commit  - giovanna tonet
 Include the files used
 
-### Credits
+### Credits - Giovanna tonet  - second additional commit
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 
