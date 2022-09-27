@@ -204,6 +204,8 @@ def user_stats(df):
 
 #this comment is to test the refactoring branch  - giovanna tonet
 
+#this comment is to teste the refactoring branch again - giovanna tonet
+
 def main():
     while True:
         city, month, day = get_filters()
