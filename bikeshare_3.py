@@ -202,7 +202,7 @@ def user_stats(df):
         next= next + 5
         print(df.iloc[next:next+5])
 
-
+#this comment is to test the refactoring branch  - giovanna tonet
 
 def main():
     while True:
