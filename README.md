@@ -1,18 +1,14 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created - 27/09/22 - first commit by giovanna tonet
-Include the date you created this project and README file.
+### Date created - 28/09/22 
 
-### Project Title - bykeshare - second commit by giovanna tonet
-Replace the Project Title
+### Bikeshare 
 
-### Description - activity completition -third commit giovanna tonet
-Describe what your project is about and what it does
+### python code that shows bikeshare data in new york, washington and chicago
 
-### Files used - couse available -first additional commit  - giovanna tonet
-Include the files used
+### bykeshare_3.py and .csv data
 
-### Credits - Giovanna tonet  - second additional commit
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### Credits - Giovanna tonet and udacity course
+
 
 
